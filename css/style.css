@@ -1,0 +1,194 @@
+nav 
+{
+    position: sticky;
+    top:0px;
+    box-shadow: 2px 2px 2px 2px  rgba(128, 128, 128, 0.527);
+    border-radius: 6px; 
+    width:auto;
+    height:55px;
+    padding-bottom: 12px;
+    background-color:rgba(64, 98, 114, 0.103);
+}
+nav #dev{
+    margin-left:30px;
+    margin-top: 13px;
+    width:40px;
+    height: 40px;
+    float: left;
+    margin-right: 50px;
+}
+ul li{
+    display: inline;
+}
+nav #image{
+    margin-top: 5px;
+    width:22px;
+    float :right;
+    height: 22px;
+    margin-right: 10px;
+}
+nav button{
+    margin-left:50px;
+    margin-right:300px;
+    margin-top: 10px;
+    border-radius:10px;
+    height:45px;
+    border :1px solid rgba(128, 128, 128, 0.205);
+}
+nav form 
+{
+    float: left;
+    margin: 2px;;
+    margin-right:10px;
+}
+nav form input{
+    border: none;
+    width:450px;
+    height:30px;
+    padding-left: 20px;;
+    border-radius: 3px;
+}
+nav a{
+    text-decoration: none;
+    font-size:xx-large;
+    font-family:'Times New Roman', Times, serif;
+}
+nav #account{
+    width:180px;
+    margin-right: 0px;
+    color: blue;
+    margin-left: 50px;
+    font-weight: 500;
+    font-family:'Times New Roman', Times, serif;
+    font-size:x-large;
+    background-color: rgba(240, 248, 255, 0.247);
+    border:1px solid rgba(0, 0, 255, 0.253);
+}
+footer{
+    background-color: rgba(128, 128, 128, 0.507);
+    padding: 10px;
+    box-shadow: 2px 2px 2px 2px  grey;
+padding-top: 30px;
+    width:auto;
+    height: 200px;
+    font-size: x-large;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#sidebar
+{
+    position: relative;
+    background-color:rgba(128, 128, 128, 0.062);
+    width:auto;
+    font-size: x-large;
+    padding-left: 80px;
+}
+#sidebar img
+{
+    width:20px;
+    height:20px;
+}
+#box3
+{
+    background-color:rgba(128, 128, 128, 0.171);
+}
+#last
+{
+    margin-bottom: 30px;
+    background-color: rgba(65, 16, 16, 0.945)
+}
+#box4
+{
+    border: 2px grey;
+    border-radius: 5px;
+    height:490px;
+    width:400px;
+}
+#box4 img
+{
+    width:60px;
+    height:60px;
+    float: left;
+}
+#box4 .text
+{
+    font-size: x-large;
+    clear: left;
+}
+#box4 pre
+{
+    font-size:x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#box3
+{
+    margin-left:100px;
+    width: 700px;
+    height: 400px;
+    padding-left: 100px;
+    border-radius: 6px;
+    background-color: rgba(128, 128, 128, 0.041);
+    border: 7px rgba(128, 128, 128, 0.521);
+}
+#box3 img
+{
+    margin-right: 20px;
+    width:70px;
+    height:70px;
+    float: left;
+}
+#box3 div 
+{
+    height:80px;
+}
+#box3 a
+{
+    text-decoration: none;
+    font-size: x-large;
+}
+#box3 a:hover{
+    color: blue;
+}
+ h1{
+    font-size:xx-large;
+    margin-top: 50px;
+}
+#box1
+{
+    padding-top:50px;
+    margin-left:100px;
+    width: 700px;
+    height: 700px;
+    padding-left: 100px;
+    border-radius: 6px;
+    background-color: rgba(128, 128, 128, 0.041);
+}
+textarea{
+    width:400px;
+    height:100px;
+    border-radius: 7px;
+    border:7px grey;
+}
+#box1 pre
+{
+    font-size:medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#box1 .b3
+{
+    font-size:x-large;
+    margin-bottom: 3px;
+}
+#box2
+{   
+    font-size: x-large;
+    margin-left:100px;
+    width: 700px;
+    height: 270px;
+    padding-left: 100px;
+    border-radius: 6px;
+    background-color: rgba(128, 128, 128, 0.041);   
+}
+.main
+{
+    
+}
